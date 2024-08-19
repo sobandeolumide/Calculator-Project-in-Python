@@ -3,7 +3,6 @@ This Python project implements a versatile calculator capable of handling basic 
 
 **Table of Contents**
 Features
-Installation
 Usage
 Example
 Contributing
@@ -13,22 +12,6 @@ Basic Operations: Addition, subtraction, multiplication, division.
 Advanced Operations: Exponentiation, square root, logarithms.
 Customizable: Add new operations easily by extending the Calculator class.
 Error Handling: Detects and handles division by zero, invalid inputs, and unsupported operations.
-
-**Installation**
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/python-calculator.git
-Navigate to the project directory:
-bash
-Copy code
-cd python-calculator
-(Optional) Create a virtual environment and activate it:
-bash
-Copy code
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-Install any necessary dependencies (if applicable).
 
 **Usage**
 Run the calculator by executing the main script:
